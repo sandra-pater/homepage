@@ -1,0 +1,27 @@
+.navigation__section {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+
+.navigation {
+    padding: 5px;
+    border: 10px;
+    margin: 0px;
+}
+
+.navigation__list {
+    display: block;
+    list-style: none;
+    display: inline;
+    padding: 1px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.navigation__id {
+    text-decoration: none;
+    color: #000000;
+}

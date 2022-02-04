@@ -1,0 +1,54 @@
+.music {
+    padding: 0 auto;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 35px;
+    margin-top: 40px;
+    overflow-x: auto;
+    border: solid 1px white;
+}
+
+.music__title {
+    font-size: 28px;
+    letter-spacing: 3px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.table__music {
+    border-collapse: collapse;
+    width: 95%;
+    text-align: center;
+    margin: auto;
+}
+
+.music__Th {
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 19px;
+    background-color: #d5d5d52c;
+}
+
+.music__TitleTable {
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    background-color: rgb(214, 214, 214);
+}
+
+.table__row:hover {
+    background-color: rgb(255, 255, 255);
+    font-weight: bolder;
+    color: #153f7ea4;
+}
+
+.musicTh--link {
+    font-size: 25px;
+    text-decoration-line: none;
+    color: black;
+}
+
+.musicTh--link:hover {
+    font-size: 17px;
+}

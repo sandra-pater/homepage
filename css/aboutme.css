@@ -1,0 +1,27 @@
+.section__me {
+    padding: 40px;
+    border: solid 1px;
+    display: flex;
+    flex-direction: column;
+    overflow-x: auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.857);
+}
+
+.section__me--items {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.article__header {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.article__paragraph {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}

@@ -1,0 +1,31 @@
+.travel {
+    padding: 40px;
+    border: solid 1px;
+    margin-top: 60px;
+    background-color: rgba(255, 255, 255, 0.857);
+}
+
+
+.header__travel {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.flex {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    padding: 10px;
+    max-width: 1000px;
+    overflow-x: auto;
+    justify-content: space-between;
+}
+
+.flex__item {
+    flex-basis: 50px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
+    margin: 10px;
+}
